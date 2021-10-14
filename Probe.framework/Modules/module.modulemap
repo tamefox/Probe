@@ -1,0 +1,6 @@
+framework module Probe {
+  umbrella header "Probe.h"
+
+  export *
+  module * { export * }
+}
